@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd059b6f-14b5-40bf-82f8-f15dafc0f71c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.vs/PythonApplication1/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonApplication1.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PythonApplication1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataFileForm/dataFile/测试的文件.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataFileForm/dataFile/测试的文件.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataFileForm/dataFile/碧桂园NC采购系统应用讲解2017.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataFileForm/dataFile/碧桂园NC采购系统应用讲解2017.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/ConvFormat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/ExtractTxt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/TraverFiles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/day01_pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/day01_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/day02_Extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/pdf2txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/word2txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/day01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/.idea/QtPro_DM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/01-PYQT5-初体验.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/02-PyQt5程序基本结构分析.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/03-QObject-API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/03-QObject-定时器-案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-事件消息.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-事件转发.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-交互状态-案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-交互状态.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-信息提示-案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-信息提示.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-内容边距操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-大小位置-API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-大小位置-案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-层级关系调整.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-最小尺寸最大尺寸-API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-案例1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-焦点控制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-父子关系-案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-父子关系.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-窗口相关的操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-窗口移动案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-顶层窗口-案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/04-QWidget-顶层窗口操作-案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/05-QAbstractButton-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/05-QAbstractButton-简单介绍.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/06-QPushButton-功能API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/07-QCommandLinkButton-使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/08-QToolButton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/09-QRadioButton-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/10-QButtonGroup-使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/11-QCheckBox-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/12-QLiineEdit-验证器的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/12-QLineEdit-功能测试-下.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/12-QLineEdit-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/12-QLineEdit-验证器的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/13-QFrame-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/14-QTextEdit-父类功能的测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/15-QTextEdit-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/16-QPlainTextEdit-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/17-QKeySequenceEdit-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/18-QAbstractSpinBox-功能作用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/19-QSpinBox-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/20-QDoubleSpinBox-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/21-QDateTimeEdit-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/21-日期时间的学习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/22-QDateEdit-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/23-QTimeEdit-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/24-QComboBox-功能作用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/25-QComboBox-综合案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/26-QFontComboBox-功能作用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/27-QAbstractSlider-子类验证功能作用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/28-QSlider-功能作用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/28-QSlider-综合案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/29-QScrollBar-功能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/30-QDial-功能作用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/31-QRubberBand-功能作用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/31-QRubberBand-综合案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/32-QDialog-功能作用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/33-QFontDialog-功能作用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/34-QColorDialog-功能作用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/35-QFileDialog-功能作用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/Menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/PyQt事件机制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/QObject.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/desktop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/rose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/xx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/xxx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/PyQt5(代码)/继承结构图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/test/04-QWidget-事件消息.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QtPro_DM/test/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1b4ob24gdklVTXUswNB2EX5sN7K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="pdf2txt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonApplication1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01/pdf2txt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pdf2txt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd059b6f-14b5-40bf-82f8-f15dafc0f71c" name="Default Changelist" comment="" />
+      <created>1587900794582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587900794582</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="167" key="SettingsEditor" timestamp="1587901109191">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587901109191" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day01/pdf2txt.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
